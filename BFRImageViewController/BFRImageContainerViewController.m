@@ -14,6 +14,7 @@
 #import <PhotosUI/PhotosUI.h>
 #import <PINRemoteImage/PINRemoteImage.h>
 #import <PINRemoteImage/PINImageView+PINRemoteImage.h>
+#import <FLAnimatedImage/FLAnimatedImage.h>
 
 @interface BFRImageContainerViewController () <UIScrollViewDelegate, UIGestureRecognizerDelegate>
 
